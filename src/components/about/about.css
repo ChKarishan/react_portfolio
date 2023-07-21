@@ -87,7 +87,7 @@
     }
 }
 
- /************  Small Queries (Medium Devices) *********** */
+ /************  Media Queries (Small Devices) *********** */
  @media screen and (max-width: 600px) {
     .about__me{
         width: 65%;
@@ -108,3 +108,4 @@
     }
     
  }
+
