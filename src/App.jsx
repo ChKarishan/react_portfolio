@@ -1,7 +1,7 @@
 import React from 'react'
 import './index.css'
 import Header from './components/header/header'
-import Nav from './components/nav/nav'
+import Nav from './components/nav/Nav'
 import About from './components/about/About'
 import Experience from './components/experience/Experience'
 import Services from './components/services/services'
