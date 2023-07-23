@@ -19,34 +19,28 @@ const services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Material Design: Eye-catching, user-friendly interfaces following Material Design guidelines.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Room Database: Effective local data storage and retrieval with Room SQLite.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Ktor Integration: Building asynchronous servers and clients for robust apps.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>MVVM Architecture: Well-structured, maintainable apps using MVVM design pattern.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>SDK Implementation: Extending app functionality by integrating various SDKs.</p>
             </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
-            </li>
-
           </ul>
         </article>
 
@@ -58,71 +52,61 @@ const services = () => {
           <ul className='service__list'>
           <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>React Frontend: Building interactive and user-friendly interfaces with React.js.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Express.js Backend: Developing scalable and secure backend applications with Express.js.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Node.js Development: Server-side JavaScript expertise for fast and event-driven applications.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Redux Implementation: Managing state efficiently with Redux in React applications.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Next.js Development: Crafting performant and SEO-friendly web apps using Next.js.</p>
             </li>
           </ul>
         </article>
 
 
-        {/* Content Creation */}
+        {/* Cloud Development */}
         <article className='service'>
           <div className='service__head'>
-            <h3>Content Creation</h3>
+            <h3>Cloud Development</h3>
           </div>
           <ul className='service__list'>
           <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>AWS SAM (Serverless Application Model): Creating serverless applications on AWS infrastructure.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>AWS S3: Utilizing AWS S3 for scalable and cost-effective object storage</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>API Gateway: Building secure and reliable APIs using AWS API Gateway.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Firebase Development: Developing real-time, serverless applications using Firebase.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>loru lalit loru lalit loru lalit loru lalit loru lalit</p>
+              <p>Firebase Firestore: NoSQL database expertise with Firebase Firestore for seamless data storage.</p>
             </li>
           </ul>
         </article>
