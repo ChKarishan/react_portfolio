@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.6e162e2d.css",
+    "main.js": "/react_portfolio/static/js/main.dceb6bf6.js",
+    "static/media/me.png": "/react_portfolio/static/media/me.5e18141ecb8ca2ee0a60.png",
+    "static/media/karishan_cv.pdf": "/react_portfolio/static/media/karishan_cv.11b8527896b69cf3d0ba.pdf",
+    "static/media/me-about.jpeg": "/react_portfolio/static/media/me-about.f9f2b0fe6f341e9f63b4.jpeg",
+    "index.html": "/react_portfolio/index.html",
+    "main.6e162e2d.css.map": "/react_portfolio/static/css/main.6e162e2d.css.map",
+    "main.dceb6bf6.js.map": "/react_portfolio/static/js/main.dceb6bf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e162e2d.css",
+    "static/js/main.dceb6bf6.js"
+  ]
+}
